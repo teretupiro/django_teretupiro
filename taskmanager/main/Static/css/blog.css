@@ -1,8 +1,23 @@
 body {
+
+    background-color: #F5FFFA	;
     padding-left: 15px;
 }
-h1  {
-    color: #FCA205;
+ h1{
+    color: #696969;
     font-family: 'Lobster';
 }
+
+ p{
+    color: FAF0E6;
+    font-family: 'Lobster';
+}
+.post {
+    margin-bottom: 70px;
+
+
+
+
+
+
 
